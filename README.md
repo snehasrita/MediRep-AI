@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="frontend/public/logo.svg" alt="MediRep AI" width="80" height="80" />
   <h1>MediRep AI</h1>
@@ -369,3 +370,4 @@ MIT License — see [LICENSE](LICENSE) for details.
   <a href="https://medirep-ai.vercel.app">Live Demo</a> &nbsp;|&nbsp;
   <a href="https://github.com/MitudruDutta/MediRep-AI">GitHub</a>
 </div>
+
