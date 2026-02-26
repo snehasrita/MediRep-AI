@@ -1,0 +1,60 @@
+# Environment files - .env.* catches all variants
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+venv/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Cache
+.cache/
+*.cache
+
+# Test
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+
+# Temp
+tmp/
+temp/
+*.tmp
+
+data/
+docs/
+.mcp.json
+
+models/

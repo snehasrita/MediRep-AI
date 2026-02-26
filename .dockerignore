@@ -1,0 +1,15 @@
+.git
+.idea
+.vscode
+**/__pycache__/
+**/*.py[cod]
+**/*.log
+
+# Local env/secrets
+backend/.env
+
+# Not needed in backend container
+frontend/
+image.png
+README.md
+
